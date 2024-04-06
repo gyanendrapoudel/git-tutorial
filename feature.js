@@ -1,2 +1,2 @@
 
-console.log('conflict')
+console.log('feature1')
